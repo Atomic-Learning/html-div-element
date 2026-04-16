@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML: The <div> Element",
+    "slug": "html-div-element",
+    "description": "A high-level introduction to the <div> element in HTML.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "html-tags-elements",
+        "html-heading-tags",
+        "html-paragraph-tag"
     ],
     "related": [
-        "",
-        ""
     ]
 }
